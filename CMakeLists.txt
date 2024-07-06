@@ -108,7 +108,7 @@ option(LWS_FOR_GITOHASHI "Enable features recommended for use with gitohashi" OF
 #
 # Compiler features
 #
-option(DISABLE_WERROR "Avoid treating compiler warnings as fatal errors" OFF)
+option(DISABLE_WERROR "Avoid treating compiler warnings as fatal errors" ON)
 
 #
 # Major individual features
